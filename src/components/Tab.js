@@ -8,7 +8,7 @@ function Tab({ children, setTab }) {
 
         setTab(activeTab)
 
-    }, [activeTab]);
+    }, [activeTab, setTab]);
 
     return (
         <div className="w-full">
