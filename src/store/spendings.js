@@ -26,7 +26,7 @@ export const SpendingsContextProvider = (props) => {
 
         setBalance(totalWorth - currentCost);
 
-    }, [cart]);
+    }, [cart, totalWorth]);
 
     const spendHandler = (payload) => {
         let item = cart.find(elem => elem.name === payload.name);
