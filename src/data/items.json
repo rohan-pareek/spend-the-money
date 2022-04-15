@@ -2,51 +2,51 @@
   {
     "name": "Office at Burj Khalifa",
     "cost": 37800000,
-    "image": "/images/burjkhalifa.jpg"
+    "image": "https://images.unsplash.com/photo-1572364769167-198dcb7b520c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80"
   },
   {
     "name": "Yatch",
     "cost": 150000000,
-    "image": "/images/yatch.jpg"
+    "image": "https://images.unsplash.com/photo-1620990200054-bb6cabaaf4e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80"
   },
   {
     "name": "1kg Gold Brick",
     "cost": 5380000,
-    "image": "/images/gold.jpg"
+    "image": "https://images.unsplash.com/photo-1610375461369-d613b564f4c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
   },
   {
     "name": "1 Carat Diamond Ring",
     "cost": 250000,
-    "image": "/images/diamond-ring.jpg"
+    "image": "https://images.unsplash.com/photo-1613945407943-59cd755fd69e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "name": "iPhone 13",
     "cost": 119900,
-    "image": "/images/iphone13.jpg"
+    "image": "https://images.unsplash.com/photo-1632582593957-e28f748ba619?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "name": "Ferrari",
     "cost": 35000000,
-    "image": "/images/ferrari.jpg"
+    "image": "https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
   },
   {
     "name": "Rolls Royce",
     "cost": 70000000,
-    "image": "/images/rolls-royce.jpg"
+    "image": "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
   },
   {
     "name": "Tesla",
     "cost": 7000000,
-    "image": "/images/tesla.jpg"
+    "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "name": "Mansion",
     "cost": 10000000,
-    "image": "/images/mansion.jpg"
+    "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
   },
   {
     "name": "Private Jet",
     "cost": 150000000,
-    "image": "/images/jet.jpg"
+    "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
   }
 ]
