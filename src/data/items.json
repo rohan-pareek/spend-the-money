@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Office at Burj Khalifa",
+    "cost": 37800000,
+    "image": "/images/burjkhalifa.jpg"
+  },
+  {
+    "name": "Yatch",
+    "cost": 150000000,
+    "image": "/images/yatch.jpg"
+  },
+  {
+    "name": "1kg Gold Brick",
+    "cost": 5380000,
+    "image": "/images/gold.jpg"
+  },
+  {
+    "name": "1 Carat Diamond Ring",
+    "cost": 250000,
+    "image": "/images/diamond-ring.jpg"
+  },
+  {
+    "name": "iPhone 13",
+    "cost": 119900,
+    "image": "/images/iphone13.jpg"
+  },
+  {
+    "name": "Ferrari",
+    "cost": 35000000,
+    "image": "/images/ferrari.jpg"
+  },
+  {
+    "name": "Rolls Royce",
+    "cost": 70000000,
+    "image": "/images/rolls-royce.jpg"
+  },
+  {
+    "name": "Tesla",
+    "cost": 7000000,
+    "image": "/images/tesla.jpg"
+  },
+  {
+    "name": "Mansion",
+    "cost": 10000000,
+    "image": "/images/mansion.jpg"
+  },
+  {
+    "name": "Private Jet",
+    "cost": 150000000,
+    "image": "/images/jet.jpg"
+  }
+]
